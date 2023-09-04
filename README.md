@@ -14,7 +14,7 @@ Other standard libraries
 # Explanation:
 For better understanding see code.
 You can find line to line explanation.
-Give me start If you like the explanation.
+Give me star If you like the explanation.
 
 
 # License
